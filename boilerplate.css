@@ -1,0 +1,42 @@
+
+*,
+*:before,
+*:after {
+	margin: 0;
+	padding: 0;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.centerit {
+	text-align: center;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.hide {
+	display: none;
+}
+
+
+a:link {
+	list-style-type: none;
+	text-decoration: none;
+	
+}
+
+a:hover {
+	
+}
+
+a:active {
+	
+}
